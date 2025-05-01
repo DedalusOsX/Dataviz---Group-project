@@ -1,4 +1,4 @@
-Entity,Code,Year,Population - Scenario: SSP2 - Sex: All -Age: All -Education: Post Secondary, Population - Scenario: SSP2 - Sex: All -Age: All - Education: Upper Secondary,Population - Scenario: SSP2 - Sex: All - Age: All -Education: Lower Secondary,Population - Scenario: SSP2 - Sex: All -Age: All -Education: Primary,Population - Scenario: SSP2 - Sex: All -Age: All -Education: Incomplete Primary,Population - Scenario: SSP2 - Sex: All -Age: All -Education: None,Population - Scenario: SSP2 - Sex: All -Age: All -Education: Under 15
+Entity,Code,Year,Pop_PostSec,Pop_Usec,Pop_Lsec,Pop_Primary,Pop_IncompPrim,Pop_None,Pop_Under 15
 Afghanistan,AFG,1950,800,5300,0,155000,0,4411200,3179900
 Afghanistan,AFG,1955,1600,10000,0,197300,0,4633400,3428100
 Afghanistan,AFG,1960,3400,17800,0,255100,0,4925300,3790800

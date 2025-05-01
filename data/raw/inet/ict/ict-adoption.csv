@@ -1,4 +1,4 @@
-Entity,Code,Year,Fixed telephone subscriptions,Fixed broadband subscriptions,Mobile cellular subscriptions,Number of Internet users
+Entity,Code,Year,Fixed_Sub,Fixed_BB_Sub,Mobile_Cell_Sub,Internet_Users_Num
 Afghanistan,AFG,1960,7700,,0,
 Afghanistan,AFG,1961,7700,,,
 Afghanistan,AFG,1962,7700,,,

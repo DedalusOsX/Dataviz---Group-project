@@ -1,4 +1,4 @@
-Entity,Code,Year,Individuals using the Internet (% of population)
+Entity,Code,Year,InternetUsage%
 Afghanistan,AFG,1990,0
 Afghanistan,AFG,1991,0
 Afghanistan,AFG,1992,0
@@ -1760,7 +1760,7 @@ Dominican Republic,DOM,2019,79.7155
 Dominican Republic,DOM,2020,81.6173
 Dominican Republic,DOM,2021,85.243
 Dominican Republic,DOM,2022,84.3832
-East Asia and Pacific (WB),,1990,0.0073482394
+East Asia and Pacific (WB),,1990,0.007348239
 East Asia and Pacific (WB),,1991,0.015138366
 East Asia and Pacific (WB),,1992,0.031765036
 East Asia and Pacific (WB),,1993,0.06306244
@@ -3488,7 +3488,7 @@ Laos,LAO,2020,54
 Laos,LAO,2021,62
 Laos,LAO,2022,66.1548
 Latin America and Caribbean (WB),,1990,0
-Latin America and Caribbean (WB),,1991,0.0022112164
+Latin America and Caribbean (WB),,1991,0.002211216
 Latin America and Caribbean (WB),,1992,0.009616999
 Latin America and Caribbean (WB),,1993,0.02112183
 Latin America and Caribbean (WB),,1994,0.043305334
@@ -3743,8 +3743,8 @@ Low-income countries,,1991,0
 Low-income countries,,1992,0
 Low-income countries,,1993,0
 Low-income countries,,1994,0
-Low-income countries,,1995,0.00021860022
-Low-income countries,,1996,0.0018209951
+Low-income countries,,1995,0.0002186
+Low-income countries,,1996,0.001820995
 Low-income countries,,1997,0.010174497
 Low-income countries,,1998,0.023908531
 Low-income countries,,1999,0.052656654
@@ -3774,9 +3774,9 @@ Low-income countries,,2022,23.7
 Low-income countries,,2023,27.1
 Lower-middle-income countries,,1990,0
 Lower-middle-income countries,,1991,0
-Lower-middle-income countries,,1992,0.000056419718
-Lower-middle-income countries,,1993,0.0001431485
-Lower-middle-income countries,,1994,0.0011025058
+Lower-middle-income countries,,1992,5.64197E-05
+Lower-middle-income countries,,1993,0.000143149
+Lower-middle-income countries,,1994,0.001102506
 Lower-middle-income countries,,1995,0.01629492
 Lower-middle-income countries,,1996,0.034945056
 Lower-middle-income countries,,1997,0.06033784
@@ -4252,9 +4252,9 @@ Micronesia (country),FSM,2019,38
 Micronesia (country),FSM,2020,39.3833
 Micronesia (country),FSM,2021,39.9648
 Micronesia (country),FSM,2022,40.5434
-Middle East and North Africa (WB),,1990,0.0020725408
+Middle East and North Africa (WB),,1990,0.002072541
 Middle East and North Africa (WB),,1991,0.004020833
-Middle East and North Africa (WB),,1992,0.0058202436
+Middle East and North Africa (WB),,1992,0.005820244
 Middle East and North Africa (WB),,1993,0.008255953
 Middle East and North Africa (WB),,1994,0.013511151
 Middle East and North Africa (WB),,1995,0.03176988
@@ -4287,8 +4287,8 @@ Middle East and North Africa (WB),,2021,72.6
 Middle East and North Africa (WB),,2022,75.5
 Middle East and North Africa (WB),,2023,77.7
 Middle-income countries,,1990,0
-Middle-income countries,,1991,0.00039646454
-Middle-income countries,,1992,0.0013687173
+Middle-income countries,,1991,0.000396465
+Middle-income countries,,1992,0.001368717
 Middle-income countries,,1993,0.003745078
 Middle-income countries,,1994,0.009573589
 Middle-income countries,,1995,0.030624717
@@ -5967,9 +5967,9 @@ South Africa,ZAF,2021,74.1534
 South Africa,ZAF,2022,74.703
 South Asia (WB),,1990,0
 South Asia (WB),,1991,0
-South Asia (WB),,1992,0.000084720785
-South Asia (WB),,1993,0.0001657734
-South Asia (WB),,1994,0.0008512783
+South Asia (WB),,1992,8.47208E-05
+South Asia (WB),,1993,0.000165773
+South Asia (WB),,1994,0.000851278
 South Asia (WB),,1995,0.019977266
 South Asia (WB),,1996,0.040563747
 South Asia (WB),,1997,0.060038242
@@ -6857,9 +6857,9 @@ United States Virgin Islands,VIR,2015,54.8391
 United States Virgin Islands,VIR,2016,59.6083
 United States Virgin Islands,VIR,2017,64.3775
 Upper-middle-income countries,,1990,0
-Upper-middle-income countries,,1991,0.0007216798
-Upper-middle-income countries,,1992,0.0024545249
-Upper-middle-income countries,,1993,0.0067543313
+Upper-middle-income countries,,1991,0.00072168
+Upper-middle-income countries,,1992,0.002454525
+Upper-middle-income countries,,1993,0.006754331
 Upper-middle-income countries,,1994,0.016722864
 Upper-middle-income countries,,1995,0.042839173
 Upper-middle-income countries,,1996,0.10465934
