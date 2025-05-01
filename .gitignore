@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv/
+
+# Python bytecode
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE specific settings (e.g., VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
