@@ -56,15 +56,13 @@ dataviz-project/
 │
 ├── notebooks/               # Jupyter notebooks
 │   └── main.ipynb           # Main visualization notebook
-│
+│   └── demographics.ipynb   # Demographics visualization notebook
+│   └── constants.py         # Some util constants
+│   └── data.ipynb           # Data management
 ├── data/                    # Datasets
-│   └── co2/                 
-│   └── demography/          
-│   └── education/    
-│   └── electricity/   
-│   └── gdp/    
-│   └── inet/    
-│   └── urbanization/    
+|   └── generated/           # Prepared Data            
+│   └── raw/                 # Original raw Data  
+│   └── util/                # Utility data (countries, etc.)
 ├── README.md
 ├── 2020225_GroupProjectOnePager.pdf
 ├── requirements.txt
